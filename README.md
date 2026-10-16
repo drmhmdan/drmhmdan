@@ -20,16 +20,12 @@ I'm a neurosurgeon building interactive tools for anatomy and surgical education
 
 My projects bring together **spatial anatomy, browser-based 3D and clear explanations** — for people learning, teaching or understanding spine surgery.
 
-### Explore my interactive apps
-
-**[Understanding Disc Surgery](https://neuro-hamdan.tech/apps/disc-surgery/)** — explore endoscopic L4/5 disc surgery through interactive 3D anatomy, with explanations in English, German and Arabic.
-
 ### Selected projects
 
 | Project | What you can explore | Links |
 | :--- | :--- | :--- |
 | **Hamdan SpineLab** | A lumbar C-arm simulator with three CT cases, interactive X-ray projections and linked 3D anatomy. | [Try it](https://neuro-hamdan.tech/apps/hamdan-spinelab/) · [Code](https://github.com/drmhmdan/hamdan-spinelab) |
-| **Understanding Disc Surgery** | An interactive guide to endoscopic L4/5 disc surgery, with rotatable anatomy and step-by-step explanations in English, German and Arabic. | [Explore](https://neuro-hamdan.tech/apps/disc-surgery/) · [Code](https://github.com/drmhmdan/understanding-disc-surgery) |
+| **Understanding Disc Surgery** | An interactive guide to endoscopic L4/5 disc surgery, with rotatable anatomy and step-by-step explanations in English, German and Arabic. | [Try it](https://neuro-hamdan.tech/apps/disc-surgery/) · [Code](https://github.com/drmhmdan/understanding-disc-surgery) |
 | **Professional portfolio** | My clinical background, research interests and professional work. | [Visit](https://neuro-hamdan.tech/) |
 
 ### What I'm working on
